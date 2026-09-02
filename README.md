@@ -4,7 +4,7 @@ A professional personal portfolio website developed to showcase my web developme
 
 ## Live Demo
 
-Coming soon.
+![Dashboard](dashboard.png)
 
 ## Features
 
