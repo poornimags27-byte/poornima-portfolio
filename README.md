@@ -30,5 +30,3 @@ A professional personal portfolio website developed to showcase my web developme
 - CSS3
 - JavaScript
 - XAMPP
-── submit-contact.php
-└── README.md
