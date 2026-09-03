@@ -4,7 +4,7 @@ A professional personal portfolio website developed to showcase my web developme
 
 ## Live Demo
 
-![Dashboard](dashboard.png)
+https://poornimadev.rf.gd/
 
 ## Features
 
